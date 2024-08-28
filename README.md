@@ -1,20 +1,18 @@
-Olá, sou @Rafael-R2O
+Olá, sou @Rafael-R2O.
+
+**#Pythonista em formação! ** Estou explorando o universo da programação Python e adorando cada descoberta.
 
 Minhas áreas de interesse:
-Desenvolvimento Web: Criação de sites e aplicativos interativos.
-Visualização de Dados: Transformar dados em gráficos e outras representações visuais para comunicar insights de forma eficaz.
 
-Habilidades em desenvolvimento:
-Linguagem de programação Python
-Bibliotecas Pandas e Matplotlib para análise e visualização de dados
+#DesenvolvimentoPython: Criando scripts e pequenos projetos para colocar a mão na massa.
+#BibliotecasPython: Aprendendo a usar ferramentas poderosas como #Pandas, #Matplotlib e outras para analisar dados e criar visualizações.
+O que já aprendi:
 
-Aprendendo atualmente:
-Aprimorar minhas habilidades com ferramentas e bibliotecas Python.
-Explorar novas tecnologias e frameworks para desenvolvimento web.
+#Fundamentos: Sintaxe básica, estruturas de dados e lógica de programação.
+#AnáliseDeDados: Manipulando e explorando dados com Pandas.
+#VisualizaçãoDeDados: Criando gráficos e visualizações com Matplotlib.
+O que quero aprender:
 
-Busco colaboração em:
-Projetos de código aberto relacionados a desenvolvimento web ou análise de dados.
-Oportunidades para contribuir com minhas habilidades e aprender com outros desenvolvedores.
-
-Contato:
-Envie um e-mail para rafael.rodrigues.de.oliveira@outlook.com.br para conversarmos sobre projetos ou oportunidades de colaboração.
+#MachineLearning: Aplicar conceitos de aprendizado de máquina em projetos reais.
+#WebScraping: Extrair dados da web para análise.
+#Automação: Criar scripts para automatizar tarefas do dia a dia.
