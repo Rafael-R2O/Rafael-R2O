@@ -1,6 +1,6 @@
 Olá, sou @Rafael-R2O.
 
-Estou mergulhando no mundo da programação Python e adorando cada descoberta!
+Estou mergulhando no mundo da programação Python e curtindo cada descoberta!
 
 Minhas áreas de interesse são:
 
