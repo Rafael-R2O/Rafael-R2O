@@ -1,18 +1,18 @@
 Olá, sou @Rafael-R2O.
 
-**#Pythonista em formação! ** Estou explorando o universo da programação Python e adorando cada descoberta.
+Estou mergulhando no mundo da programação Python e adorando cada descoberta!
 
-Minhas áreas de interesse:
+Minhas áreas de interesse são:
 
-#DesenvolvimentoPython: Criando scripts e pequenos projetos para colocar a mão na massa.
-#BibliotecasPython: Aprendendo a usar ferramentas poderosas como #Pandas, #Matplotlib e outras para analisar dados e criar visualizações.
+Desenvolvimento Python: Explorar as diversas possibilidades que essa linguagem oferece.
+Bibliotecas Python: Aprender a usar ferramentas poderosas como Pandas, Matplotlib e outras para criar projetos incríveis.
 O que já aprendi:
 
-#Fundamentos: Sintaxe básica, estruturas de dados e lógica de programação.
-#AnáliseDeDados: Manipulando e explorando dados com Pandas.
-#VisualizaçãoDeDados: Criando gráficos e visualizações com Matplotlib.
+Fundamentos: Sintaxe básica, estruturas de dados e lógica de programação.
+Pandas: Manipular e analisar dados de forma eficiente.
+Matplotlib: Criar visualizações simples e intuitivas.
 O que quero aprender:
 
-#MachineLearning: Aplicar conceitos de aprendizado de máquina em projetos reais.
-#WebScraping: Extrair dados da web para análise.
-#Automação: Criar scripts para automatizar tarefas do dia a dia.
+Machine Learning: Aplicar conceitos de aprendizado de máquina em projetos práticos.
+Web Scraping: Extrair dados da web para análise.
+Automação: Criar scripts para automatizar tarefas do dia a dia.
